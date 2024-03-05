@@ -1,0 +1,1 @@
+export default {RedOne:"#e63946",Honey:"#f1faee",blueOne:"#a8dadc",secondary:"#457b9d", blueTwo:"#1d3557"}
